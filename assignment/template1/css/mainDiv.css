@@ -1,0 +1,27 @@
+#main-div {
+    background-color: rgb(27, 163, 247);
+    position: relative;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* justify-content: flex-start; */
+    /* padding-top: 20px; */
+    font-size: 24px;
+}
+
+#landing {
+    text-align: center;
+    font-size: 30;
+    font-weight: bolder;
+    color: white;
+    margin-top: 20px;
+}
+
+#web {
+    text-align: center;
+    font-size: 16;
+    font-weight: lighter;
+    color: white;
+    margin-bottom: 20px;
+}
